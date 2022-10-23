@@ -1,0 +1,9 @@
+<TensorBoard>
+
+pip install tensorboard
+
+
+tensorboard --logdir=./logs
+
+cifar10에 대한 텐서보드
+tensorboard --logdir=./cifar10_logs
